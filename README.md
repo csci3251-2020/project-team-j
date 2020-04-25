@@ -1,6 +1,6 @@
-# This team hasn't started yet...
+# Contributors
 
-Check back later!
-
-**Please read `tasks.md` to start your work.**
- 
+{% for stu in site.stu %}
+  <p>  >>{{ stu.image }} @{{ stu.user }} {{ stu.name }}(</p>
+  <p>    >>{{ stu.content | markdownify }}</p>
+{% endfor %}
