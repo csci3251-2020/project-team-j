@@ -19,8 +19,8 @@ Here are the tasks that we gonna do:
   
 # Contributors  
 {% for stu in site.stu %}
-   <p>  >>{{ stu.image }} @{{ stu.user }} {{ stu.name }}(</p>
-   <p>    >>{{ stu.content | markdownify }}</p>
+   <p>&emsp>> <img src="{{ stu.image }}"> @{{ stu.user }} {{ stu.name }}(</p>
+   <p>&emsp&emsp>>{{ stu.content | markdownify }}</p>
  {% endfor %}
   
 # Remarks
