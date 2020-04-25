@@ -10,7 +10,7 @@ Here are the tasks that we gonna do:
 |[x]|Task 3: Set up readme.md|@cwlo8|Updating...|
 |[ ]|Task 4: Show your team to the Internet|@IamMrandrew|In Progress|
 |[ ]|Task 5: Keep checking...|@saranyagupta05|In Progress|
-|[ ]|Task 6: Task 6: Write C code|||
+|[ ]|Task 6: Task 6: Write C code|@kelvinwongbs|In Progress|
 |[ ]|Task 7: Get a status badge|||
 |[ ]|Task 8: Promote your repo|||
     
