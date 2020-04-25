@@ -8,7 +8,7 @@ Here are the tasks that we gonna do:
 |[x]|Task 1: Starting issues|@CaseyChu960617||
 |[x]|Task 2: Project board|@ntanryo9||
 |[ ]|Task 3: Set up readme.md|@cwlo8|In Progress|
-|[ ]|Task 4: Show your team to the Internet|||
+|[ ]|Task 4: Show your team to the Internet|@IamMrandrew||
 |[ ]|Task 5: Keep checking...|||
 |[ ]|Task 6: Task 6: Write C code|||
 |[ ]|Task 7: Get a status badge|||
@@ -19,7 +19,7 @@ Here are the tasks that we gonna do:
   
 # Contributors  
 {% for stu in site.stu %}
-   <p>&nbsp;&nbsp;&nbsp;&nbsp;>> ![icon]({{ stu.image }}) @{{ stu.user }}&nbsp;({{ stu.name }})</p>
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;>> <img scr="{{ stu.image }}"> @{{ stu.user }}&nbsp;({{ stu.name }})</p>
    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>{{ stu.content | markdownify }}</p>
  {% endfor %}
   
