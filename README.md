@@ -20,7 +20,7 @@ Here are the tasks that we gonna do:
 # Contributors  
 {% for stu in site.stu %}
    <p>&nbsp;&nbsp;&nbsp;&nbsp;>> <img src="{{ stu.image }}"> @{{ stu.user }}&nbsp;({{ stu.name }})</p>
-   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>{{ stu.content}}</p>
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>{{- stu.content -}}</p>
  {% endfor %}
   
 # Remarks
