@@ -18,8 +18,10 @@ Here are the tasks that we gonna do:
 ###### hmm c'mon we need YOU !!  
   
 # Contributors  
-dunno what this one is used for?  
-Just type all the members here?  
+{% for stu in site.stu %}
+   <p>  >>{{ stu.image }} @{{ stu.user }} {{ stu.name }}(</p>
+   <p>    >>{{ stu.content | markdownify }}</p>
+ {% endfor %}
   
 # Remarks
 I will try my best to update this readme.dm all the time,  
