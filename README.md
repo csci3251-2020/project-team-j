@@ -3,16 +3,14 @@
   
 # Introduction  
 Here are the tasks that we gonna do:  
-|Done|Task Title|Contributor|Remark|
-|:--:|----------|-----------|----|
-|[x]|Task 1: Starting issues|@CaseyChu960617||
-|[x]|Task 2: Project board|@ntanryo9||
-|[x]|Task 3: Set up readme.md|@cwlo8|Updating...|
-|[ ]|Task 4: Show your team to the Internet|@IamMrandrew|In Progress|
-|[ ]|Task 5: Keep checking...|@saranyagupta05|In Progress|
-|[ ]|Task 6: Task 6: Write C code|@kelvinwongbs|In Progress|
-|[ ]|Task 7: Get a status badge|||
-|[ ]|Task 8: Promote your repo|||
+- [x] Task 1: Starting issues @CaseyChu960617  
+- [x] Task 2: Project board @ntanryo9  
+- [x] Task 3: Set up readme.md @cwlo8  
+- [x] Task 4: Show your team to the Internet @IamMrandrew  
+- [ ] Task 5: Keep checking... @saranyagupta05  
+- [ ] Task 6: Task 6: Write C code @kelvinwongbs   
+- [ ] Task 7: Get a status badge  
+- [ ] Task 8: Promote your repo  
     
 # Code  
 ###### hmm c'mon we need YOU !!  
