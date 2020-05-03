@@ -12,8 +12,10 @@ Here are the tasks that we gonna do:
 - [ ] Task 7: Get a status badge
 - [ ] Task 8: Promote your repo
     
-# Code  
-###### hmm c'mon we need YOU !!  
+# Code
+```ruby
+{% include_relative code.c %}
+```
   
 # Contributors  
 {% for stu in site.stu %}
