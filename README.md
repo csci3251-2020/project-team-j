@@ -12,7 +12,7 @@ Here are the tasks that we gonna do:
 - [ ] Task 7: Get a status badge
 - [ ] Task 8: Promote your repo
     
-# Code
+# Code  ![](https://github.com/csci3251-2020/project-team-j/workflows/CodeOfteamJ/badge.svg)
 ```ruby
 {% include_relative code.c %}
 ```
