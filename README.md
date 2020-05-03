@@ -27,3 +27,6 @@ Here are the tasks that we gonna do:
 I will try my best to update this readme.dm all the time,  
 **Maybe** this readme.dm is **not up-to-date**,  
 pls refer to [Issues](https://github.com/csci3251-2020/project-team-j/issues) and see which task is calling u :P !!
+
+---
+Last updated: {{ site.time }}
