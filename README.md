@@ -14,7 +14,7 @@ Here are the tasks that we gonna do:
     
 # Code
 ![](https://github.com/csci3251-2020/project-team-j/workflows/CodeOfteamJ/badge.svg)
-```ruby
+```c
 {% include_relative code.c %}
 ```
   
