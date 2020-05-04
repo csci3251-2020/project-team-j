@@ -1,4 +1,3 @@
-###### __Oke We are started working on it !!__   
 -----------------------------------------  
   
 # Introduction  
@@ -24,10 +23,5 @@ Here are the tasks that we gonna do:
    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>> {{ stu.content | markdownify | remove: '<p>' | remove: '</p>'}}</p>
  {% endfor %}
   
-# Remarks
-I will try my best to update this readme.dm all the time,  
-**Maybe** this readme.dm is **not up-to-date**,  
-pls refer to [Issues](https://github.com/csci3251-2020/project-team-j/issues) and see which task is calling u :P !!
-
 ---
 Last updated: {{ site.time }}
