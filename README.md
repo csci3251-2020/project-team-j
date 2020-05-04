@@ -12,10 +12,10 @@ Here are the tasks that we gonna do:
 - [ ] Task 8: Promote your repo
     
 # Code
-![](https://github.com/csci3251-2020/project-team-j/workflows/CodeOfteamJ/badge.svg)
 ```c
 {% include_relative code.c %}
 ```
+![](https://github.com/csci3251-2020/project-team-j/workflows/CodeOfteamJ/badge.svg)
   
 # Contributors  
 {% for stu in site.stu %}
