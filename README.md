@@ -7,8 +7,8 @@ Task 2: Project board @ntanryo9
 Task 3: Set up readme.md @cwlo8  
 Task 4: Show your team to the Internet @IamMrandrew  
 Task 5: Keep checking... @saranyagupta05  
-Task 6: Write C code @kelvinwongbs   
-Task 7: Get a status badge @PeterShone
+Task 6: Write C code @kelvinwongbs  
+Task 7: Get a status badge @PeterShone  
 Task 8: Promote your repo @nikunj-cuhk
     
 # Code
