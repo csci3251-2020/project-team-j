@@ -2,14 +2,14 @@
   
 # Introduction  
 Here are the tasks that we gonna do:  
-- [x] Task 1: Starting issues @CaseyChu960617  
-- [x] Task 2: Project board @ntanryo9  
-- [x] Task 3: Set up readme.md @cwlo8  
-- [x] Task 4: Show your team to the Internet @IamMrandrew  
-- [ ] Task 5: Keep checking... @saranyagupta05  
-- [x] Task 6: Write C code @kelvinwongbs   
-- [ ] Task 7: Get a status badge
-- [ ] Task 8: Promote your repo
+Task 1: Starting issues @CaseyChu960617  
+Task 2: Project board @ntanryo9  
+Task 3: Set up readme.md @cwlo8  
+Task 4: Show your team to the Internet @IamMrandrew  
+Task 5: Keep checking... @saranyagupta05  
+Task 6: Write C code @kelvinwongbs   
+Task 7: Get a status badge @PeterShone
+Task 8: Promote your repo @nikunj-cuhk
     
 # Code
 ```c
